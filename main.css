@@ -170,6 +170,11 @@ h1 {
     grid-row: 4;
 }
 
+#project6 {
+    grid-column: 3;
+    grid-row: 4;
+}
+
 #resume-header {
     margin-top: 30px;
     color:  blue;
