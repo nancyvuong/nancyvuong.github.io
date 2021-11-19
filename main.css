@@ -178,6 +178,12 @@ h1 {
     grid-row: 4;
 }
 
+#project7 {
+    margin-left: 20px;
+    grid-column: 1;
+    grid-row: 5;
+}
+
 #resume-header {
     margin-top: 30px;
     color:  blue;
